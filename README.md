@@ -7,4 +7,5 @@ https://github.com/MichaelNikulenkov/3d-renderer/blob/master/example2.jpg
 
 Код:
 https://github.com/MichaelNikulenkov/3d-renderer/tree/master/SDL_Engine/SDL_Engine
+
 Dependencies: SDL 2.0
