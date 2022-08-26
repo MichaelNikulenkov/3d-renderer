@@ -1,6 +1,0 @@
-﻿  engine.cpp
-c:\users\we\documents\cpp\projects\sdl_engine\sdl_engine\engine.cpp(137): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\we\documents\cpp\projects\sdl_engine\sdl_engine\engine.cpp(310): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-c:\users\we\documents\cpp\projects\sdl_engine\sdl_engine\engine.cpp(309): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-c:\users\we\documents\cpp\projects\sdl_engine\sdl_engine\engine.cpp(308): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  SDL_Engine.vcxproj -> C:\Users\we\Documents\CPP\Projects\SDL_Engine\Debug\SDL_Engine.exe
